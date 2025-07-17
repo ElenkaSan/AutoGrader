@@ -26,7 +26,7 @@ AutoGrader is a full-stack application developed at the **Vibe Hack Hackathon** 
 ### 🔧 Backend (`/backend`)
 ```
 backend/
-├── app.py                   # FastAPI server
+├── app.py                   # FastAPI server http://127.0.0.1:8000/docs#/default/get_csv_csv_get
 ├── graders/
 │   ├── ipynb_parser.py      # Notebook parser
 │   ├── rubric_processor.py  # Rubric parsing logic
@@ -109,6 +109,7 @@ What can be improved:
 ```bash
 cd backend
 pip install -r requirements.txt
+pip install flask fastapi uvicorn nbformat zipfile openai
 ```
 
 ### ▶️ Run the Backend
