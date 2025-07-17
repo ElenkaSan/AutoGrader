@@ -8,7 +8,7 @@ AutoGrader is a full-stack application developed at the **Vibe Hack Hackathon** 
 
 [Aryan Jain](https://github.com/aryanj10)
 
-https://github.com/lenzlaww
+[lenzlaww](https://github.com/lenzlaww)
 ---
 
 ## 🚀 Features
