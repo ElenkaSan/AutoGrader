@@ -5,10 +5,9 @@ AutoGrader is a full-stack application developed at the **Vibe Hack Hackathon** 
 
 ### Project Built by 
 [Elena Nurullina](https://github.com/ElenkaSan)
-
 [Aryan Jain](https://github.com/aryanj10)
-
 [lenzlaww](https://github.com/lenzlaww)
+
 ---
 
 ## 🚀 Features
