@@ -21,6 +21,11 @@ AutoGrader is a full-stack application developed at the **Vibe Hack Hackathon** 
 
 ---
 
+<img width="1419" height="807" alt="Screenshot 2025-07-18 at 11 35 16 AM" src="https://github.com/user-attachments/assets/1e9761d7-6d14-4eb9-a642-2b6c40d0fdc5" />
+
+<img width="1419" height="807" alt="Screenshot 2025-07-18 at 11 35 24 AM" src="https://github.com/user-attachments/assets/23d6e52f-dbf7-470b-88ee-43c1a135c865" />
+
+
 ## 🧱 Directory Structure
 
 ### 🔧 Backend (`/backend`)
